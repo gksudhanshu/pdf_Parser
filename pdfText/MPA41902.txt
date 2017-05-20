@@ -1,0 +1,80 @@
+        Marketing Partner Agreements                                      Agreement year:   2017
+
+                                                                                                                        Agreement Activity
+Target Media Network: Sparkling
+                                                                                                                             C Vendor only comes up w ith check
+ICE_2017_Loyalty_Tier6_Flight / Merchant-                                                                                      payment method. Please set up in
+                                                                                                                               CNA.
+
+Vendor Funded (NON MPF) / $50,000.00                                                                                          Sarah Benson / Target               2/24/2017
+
+Brand: Sparkling ICE                                                                                                          Billing method changed from
+                                                                                                                              ChargeBack to Check.
+                                                                                                                              Sarah Benson / Target               2/24/2017
+Loyalty 2017                             IMPORTANT INFORMATION
+                                         Agreement:                                                        MPA41902           Billing schedule marked as needing to
+                                                                                                                              be re-extracted by CNA.
+                                         Vendor:                                            Talking Rain Beverage Co.         Sarah Benson / Target               2/24/2017
+                                         Vendor #:                                                          1316489
+                                                                                             (203) NON-CARBONATED             Edited billing schedule classes.
+                                         Department:                                                                          Jessie Allenspach / Target          2/17/2017
+                                                                                                          BEVERAGES
+                                         Program:                                               Target Media Network
+                                         Approval Due Date:                                               1/15/2017           The opportunity is now committed.
+                                                                                                                              System                             12/29/2016
+                                         First Run Date:                                                  1/29/2017
+                                                                                                                              Approved
+                                                                                                                              Rachel Hill / Target               12/29/2016
+                                                  Hide Billing Schedule
+BILLING SCHEDULE                                                                                                              Approved
+                                                                                                                              Melissa Wyatt / Talking Rain Beverage Co.
+Bill Date  Begin       End    Department Amount Marketing INCR Vendor# Extracted Status                                                                       12/27/2016
+                                                   Budget ? ?
+1/29/2017 1/29/2017 1/27/2018    D203   $50,000.00    Y
+                                                                                                                              Approved
+       Class: 05           CNA SA#:                     Collected Date:                                                       Keith Wolter / Target              11/29/2016
+       $50,000.00
+        Add Notes to Billing Class
+                                                                                                                              Added participant: Keith W olter
+                                                                                                                              Rachel Hill / Target               11/21/2016
+   Automatically Bill Talking Rain Beverage Co.
+  Billing Method Check                                                                                                        Modified participant: John O'Connor
+                                                                                                                              Rachel Hill / Target               11/21/2016
+
+                                                                                                                              Agreement brand changed from to
+                                                                                                                              Sparkling ICE.
+ Media Details                                                                                                                Brittne Elzia / Target             10/25/2016
+
+                                                                                                                              Changed agreement details.
+                                                                                                                              Brittne Elzia / Target             10/25/2016
+
+    Loyalty / $50,000.00                                                                                                      Agreement extended to Talking Rain
+                                                                                                                              Beverage Co..
+          Description:                                                                                                        Brittne Elzia / Target             10/25/2016
+
+
+                   Cost:         $50,000.00                        Estimated Impressions:       0
+
+               Run Date:         1/29/2017                         End Date:    1/28/2018
+
+          Media Type:           Digital Marketing Edit Project Details
+Participants
+  John O'Connor / MerchantApprover / Target
+  John.O'Connor@target.com                              Inform
+
+
+  Keith Wolter / MerchantApprover / Target
+  Keith.Wolter@target.com                              Approver
+
+
+  Melissa Wyatt / Vendor / Talking Rain Beverage Co.
+  mwyatt@talkingrain.com                               Approver
+
+
+  Brittne Elzia / Marketer / Target
+  Brittne.Elzia@target.com                              Inform
+
+
+  Rachel Hill / Marketer / Target
+  Rachel.Hill2@target.com                              Approver
+
